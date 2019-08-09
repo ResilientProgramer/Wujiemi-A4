@@ -1,0 +1,8 @@
+{  
+    "Breakfast" :
+     [  
+       {"fname":"Oatmeal","fprice":"2","fcalorie":"65" },
+       {"fname":"Papaya","fprice":"4","fcalorie":"95"},
+       {"fname":"Egg", "fprice":"1","fcalorie":"65" }
+    ]
+ }

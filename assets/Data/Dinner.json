@@ -1,0 +1,19 @@
+{  
+    "Dinner" : [  
+       {  
+          "fname":"Red Wine",
+          "fprice":"5",
+          "fcalorie":"95"
+       },
+       {  
+          "fname":"Grill Chicken",
+          "fprice":"6",
+          "fcalorie":"255"
+       },
+       {  
+          "fname":"lasagna",
+          "fprice":"6",
+          "fcalorie":"300"
+       }
+    ]
+ }

@@ -1,0 +1,19 @@
+{  
+    "Lunch" : [  
+       {  
+          "fname":"Rice",
+          "fprice":"2",
+          "fcalorie":"65"
+       },
+       {  
+          "fname":"Beef",
+          "fprice":"4",
+          "fcalorie":"350"
+       },
+       {  
+          "fname":"Broccoli",
+          "fprice":"2",
+          "fcalorie":"80"
+       }
+    ]
+ }
